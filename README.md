@@ -1,53 +1,39 @@
-## 🚀 Next Steps
+# Syed Parveez – Developer Portfolio 🌐
 
-1. ✅ **Update repository name to `SyedparveezDev.github.io`** (Done!)
-2. **Update [`config.json`](https://github.com/SyedparveezDev/SyedparveezDev.github.io/blob/main/config.json)** with your personal information, experience, and projects and then run [this workflow](https://github.com/SyedparveezDev/SyedparveezDev.github.io/actions/workflows/update-readme.yml) to update the README
-3. **Replace assets** in the [`assets/`](https://github.com/SyedparveezDev/SyedparveezDev.github.io/tree/main/assets/) folder with your own logos and project images
-4. **Add "featured" topic** to [GitHub repositories](https://github.com/SyedparveezDev?tab=repositories) you want to showcase
-5. **Enable GitHub Pages** in [repository settings](https://github.com/SyedparveezDev/SyedparveezDev.github.io/settings/pages) to make your portfolio live
-6. **Customize further** by adding more content
+Welcome to the source code of [syedparveez.dev](https://syedparveez.dev) – my personal portfolio website built to showcase my projects, technical skills, and professional journey as a Full-Stack Developer.
 
----
+## 🚀 Tech Stack
 
-# SYED PARVEEZ AFHAM | Full-Stack Developer - Developer Portfolio
+- **Frontend:** React.js (via Next.js)
+- **Styling:** Tailwind CSS
+- **UI Components:** Radix UI
+- **Package Manager:** pnpm
+- **Hosting:** Vercel
+- **Language:** TypeScript
 
-<div align="left">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://SyedparveezDev.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/SyedparveezDev)
+## 📁 Features
 
-</div>
+- Fully responsive and modern UI
+- Projects with live demos and GitHub links
+- Contact form with email integration
+- Dynamic skills and experience section
+- SEO optimised and fast-loading
 
-Welcome to my developer portfolio! This website showcases my projects, skills, and professional journey.
+## 📸 Live Preview
 
-## ✨ Features
+Check it out here: [https://syedparveez.dev](https://syedparveez.dev)
 
-- 🎨 **Modern Design** - Clean, responsive interface with dark/light theme support
-- 🚀 **Performance Optimized** - Fast loading with vanilla JavaScript
-- 📱 **Mobile First** - Fully responsive across all devices
-- 🔄 **Auto-Updated** - Content dynamically generated from `config.json`
-- 🎭 **Interactive** - Smooth animations and engaging user experience
-- 🌓 **Dark/Light Mode** - Smooth transitions with persistent preferences
-- 🔗 **Dynamic Social Links** - Configurable social media and professional links
-- ⚙️ **Zero Code Changes** - Everything configured through JSON
+## 🛠️ Setup Instructions
 
-## 📈 GitHub Stats
+```bash
+# Clone the repo
+git clone https://github.com/your-username/syedparveez-dev-portfolio.git
 
-<div align="left">
+# Go to the project directory
+cd syedparveez-dev-portfolio
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedparveezDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+# Install dependencies
+pnpm install
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedparveezDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## 🤝 Connect
-
-Let's connect and build something amazing together!
-
-- 🌐 **Portfolio**: [https://SyedparveezDev.github.io](https://SyedparveezDev.github.io)
-- 💻 **GitHub**: [https://github.com/SyedparveezDev](https://github.com/SyedparveezDev)
-
----
-
-*Based on [portfolio template](https://github.com/yashrajnayak/developer-portfolio) originally created by [Yashraj Nayak](https://github.com/yashrajnayak)*
+# Start the development server
+pnpm dev
